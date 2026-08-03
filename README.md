@@ -8,16 +8,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
 | ------- |
@@ -40,4 +44,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/akshatnavlani/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/akshatnavlani/LeetCode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/akshatnavlani/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
