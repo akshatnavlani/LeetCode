@@ -1,7 +1,11 @@
 class Solution:
     def findMissingElements(self, nums: List[int]) -> List[int]:
-        missing=[]
-        for i in range(min(nums),max(nums)):
-            if i not in nums:
-                missing.append(i)
-        return missing
+        nums.sort()
+        a=[]
+        j=0
+        for i in range(nums[0],nums[-1]):
+            if nums[j]!=i:
+                a.append(i)
+            else:
+                j+=1
+        return a
