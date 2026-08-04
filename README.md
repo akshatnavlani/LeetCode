@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
@@ -65,4 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/akshatnavlani/LeetCode/tree/master/3731-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
