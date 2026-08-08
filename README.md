@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akshatnavlani/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/akshatnavlani/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatnavlani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatnavlani/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
@@ -152,4 +153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshatnavlani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/akshatnavlani/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/akshatnavlani/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
