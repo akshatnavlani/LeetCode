@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -84,10 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akshatnavlani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/akshatnavlani/LeetCode/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshatnavlani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/akshatnavlani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatnavlani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akshatnavlani/LeetCode/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshatnavlani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
