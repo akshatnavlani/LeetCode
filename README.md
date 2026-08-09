@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/akshatnavlani/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/akshatnavlani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/akshatnavlani/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatnavlani/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatnavlani/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshatnavlani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatnavlani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -45,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshatnavlani/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatnavlani/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
@@ -66,10 +70,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -165,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akshatnavlani/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
