@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/akshatnavlani/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/akshatnavlani/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akshatnavlani/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshatnavlani/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatnavlani/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/akshatnavlani/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshatnavlani/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/akshatnavlani/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/akshatnavlani/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akshatnavlani/LeetCode/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/akshatnavlani/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akshatnavlani/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshatnavlani/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/akshatnavlani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatnavlani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akshatnavlani/LeetCode/tree/master/0567-permutation-in-string) |
+| [1927-sum-game](https://github.com/akshatnavlani/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshatnavlani/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshatnavlani/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
