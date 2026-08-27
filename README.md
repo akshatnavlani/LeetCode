@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akshatnavlani/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/akshatnavlani/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/akshatnavlani/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/akshatnavlani/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatnavlani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatnavlani/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatnavlani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/akshatnavlani/LeetCode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatnavlani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akshatnavlani/LeetCode/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatnavlani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akshatnavlani/LeetCode/tree/master/0049-group-anagrams) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshatnavlani/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/akshatnavlani/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatnavlani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/akshatnavlani/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshatnavlani/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/akshatnavlani/LeetCode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatnavlani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akshatnavlani/LeetCode/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/akshatnavlani/LeetCode/tree/master/1927-sum-game) |
