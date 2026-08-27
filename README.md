@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatnavlani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akshatnavlani/LeetCode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/akshatnavlani/LeetCode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatnavlani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akshatnavlani/LeetCode/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatnavlani/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshatnavlani/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/akshatnavlani/LeetCode/tree/master/0155-min-stack) |
 ## Backtracking
 |  |
@@ -264,5 +266,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akshatnavlani/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/akshatnavlani/LeetCode/tree/master/0206-reverse-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/akshatnavlani/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
