@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/akshatnavlani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/akshatnavlani/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/akshatnavlani/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/akshatnavlani/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatnavlani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatnavlani/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshatnavlani/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshatnavlani/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/akshatnavlani/LeetCode/tree/master/0075-sort-colors) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshatnavlani/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/akshatnavlani/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatnavlani/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akshatnavlani/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/akshatnavlani/LeetCode/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/akshatnavlani/LeetCode/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshatnavlani/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -272,4 +275,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/akshatnavlani/LeetCode/tree/master/0146-lru-cache) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akshatnavlani/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akshatnavlani/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
